@@ -34,8 +34,7 @@ Monsoon Shifts: Variations in the start and end dates of the monsoon season in d
 Rainfall Patterns: Identifying regions with high rainfall concentration (e.g., coastal states) and dry regions (e.g., desert areas).
 
 # How to Use
-Download and open the India_Weather_33_Years.pbix file in Power BI Desktop.
-Use the slicers to view data for specific regions/states or for India as a whole.
+Download and open the weather_forecasting.pbix file in Power BI Desktop.
 Hover over visualizations to get detailed tooltips, or use the filters to narrow down data based on weather conditions such as temperature or rainfall.
 Use the “Year” and “Region” filters to view specific yearly data for a region or compare data across different regions.
 
